@@ -1,4 +1,5 @@
-module Dance
+module FancyDance
+    module instanceMethods
 
     def twirl
         "I'm twirling!"
