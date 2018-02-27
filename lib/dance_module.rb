@@ -12,9 +12,5 @@ module Dance
         "Thank you, thank you. It was a pleasure to dance for you all."
     end
 
-    def jump
-        "Look how high I'm jumping!"
-    end
-
 
 end
